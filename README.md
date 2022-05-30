@@ -2,9 +2,4 @@
 # Tutorial GIT e GitHub
 Tutorial de uso das ferramentas Git e GitHub 
 ## Autor
-Romeo Gabriel
-| \ | (_) |       
-|  \| |_| | _____ 
-| . ` | | |/ / _ \
-| |\  | |   <  __/
-|_| \_|_|_|\_\___|
+Romeo Gabriel     
