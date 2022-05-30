@@ -3,3 +3,5 @@
 Tutorial de uso das ferramentas Git e GitHub 
 ## Autor
 Romeo Gabriel     
+## Playlist
+[Iniciar tutorial](https://joseassis.com.br/cursos/gitegithub.html)
